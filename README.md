@@ -1,5 +1,5 @@
 # JmpY-maps
-This repository contains MTA:SA maps I made. All maps contained in this repository are covered under the [GPL-2.0 license](https://github.com/JmpY-mta/JmpY-maps/blob/main/LICENSE). Please review the terms when making any alterations to any of the maps.
+This repository contains MTA:SA maps I made. All maps contained in this repository are covered under the [GPL-2.0 license](https://github.com/JmpY-mta/JmpY-maps/blob/main/LICENSE). Please review the terms before making any alterations or re-distributing any of the maps.
 
 ## Installing maps
 To load the maps in your map editor, you can manually download any map directory, and store it in:
