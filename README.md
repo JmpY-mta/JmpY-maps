@@ -12,4 +12,4 @@ Or you can update the entire repository through [git](https://git-scm.com/):
 4. You can pull in any updates from the repository by simply running `git pull` from the `./MTA San Andreas 1.6/server/mods/deathmatch/resources/[JmpY-maps]/` directory.
 
 ## Collaboration
-If you'd like to propose any change to any map, please submit a Pull Request (PR), with your proposed change. You may add your name / MTA alias to the author section in the meta.xml file. I.e. `author="JmpY"` to `author="JmpY, <name>"` [example](https://github.com/JmpY-mta/JmpY-maps/blob/main/DD-JmpY-One/meta.xml#L3)). And bump up the version number of the map, ideally following [semantic versioning](https://semver.org/).
+If you'd like to propose any change to any map, please submit a Pull Request (PR), with your proposed change. You may add your name / MTA alias to the author section in the meta.xml file. I.e. `author="JmpY"` to `author="JmpY, <name>"` [example](https://github.com/JmpY-mta/JmpY-maps/blob/main/DD-JmpY-One/meta.xml#L3). And bump up the version number of the map, ideally following [semantic versioning](https://semver.org/).
