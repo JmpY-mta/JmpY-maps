@@ -113,7 +113,7 @@
     <object id="object (newramp) (6)" breakable="false" interior="0" alpha="255" dimension="0" model="1245" scale="1" doublesided="false" collisions="true" frozen="false" posX="3289.9033" posY="-1231.7186" posZ="16.38092" rotX="0" rotY="58.986" rotZ="179.995"></object>
     <object id="object (newramp) (7)" breakable="false" interior="0" alpha="255" dimension="0" model="1245" scale="1" doublesided="false" collisions="true" frozen="false" posX="3275.5842" posY="-1231.9657" posZ="16.38092" rotX="0" rotY="58.986" rotZ="0"></object>
     <object id="object (newramp) (8)" breakable="false" interior="0" alpha="255" dimension="0" model="1245" scale="1" doublesided="false" collisions="true" frozen="false" posX="3275.5969" posY="-1229.7888" posZ="16.38092" rotX="0" rotY="58.986" rotZ="0"></object>
-    <spawnpoint id="spawnpoint (Cheetah) (14)" vehicle="415" alpha="255" interior="0" posX="3250.6572" posY="-1251.1113" posZ="16.20204" rotX="0" rotY="0" rotZ="90" scale="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (1)" vehicle="415" alpha="255" interior="0" posX="3250.6572" posY="-1251.1113" posZ="16.20204" rotX="0" rotY="0" rotZ="90" scale="0"></spawnpoint>
     <spawnpoint id="spawnpoint (Cheetah) (15)" vehicle="415" alpha="255" interior="0" posX="3317.293" posY="-1251.0889" posZ="16.19003" rotX="0" rotY="0" rotZ="-90" scale="0"></spawnpoint>
     <spawnpoint id="spawnpoint (Cheetah) (20)" vehicle="415" alpha="255" interior="0" posX="3315.8418" posY="-1231.7529" posZ="16.20204" rotX="0" rotY="0" rotZ="-90" scale="0"></spawnpoint>
     <spawnpoint id="spawnpoint (Cheetah) (21)" vehicle="415" alpha="255" interior="0" posX="3287.4453" posY="-1221.5977" posZ="16.20004" rotX="0" rotY="0" rotZ="-90" scale="0"></spawnpoint>
@@ -170,4 +170,10 @@
     <object id="object (DYN_GARRAGE1) (23)" breakable="false" interior="0" alpha="255" dimension="0" model="1482" scale="1" doublesided="false" collisions="true" frozen="false" posX="3340.5659" posY="-1223.6965" posZ="13.90476" rotX="0" rotY="0" rotZ="44.995"></object>
     <object id="object (DYN_GARRAGE1) (24)" breakable="false" interior="0" alpha="255" dimension="0" model="1482" scale="1" doublesided="false" collisions="true" frozen="false" posX="3344.3298" posY="-1229.1376" posZ="13.89976" rotX="0" rotY="0" rotZ="-135"></object>
     <object id="object (DYN_GARRAGE1) (33)" breakable="false" interior="0" alpha="255" dimension="0" model="1482" scale="1" doublesided="false" collisions="true" frozen="false" posX="3339.718" posY="-1224.5287" posZ="13.89376" rotX="0" rotY="0" rotZ="-135"></object>
+    <spawnpoint id="spawnpoint (Cheetah) (2)" vehicle="415" alpha="255" interior="0" posX="3337.4746" posY="-1278.2056" posZ="16.19203" rotX="0" rotY="0" rotZ="-90" scale="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (3)" vehicle="415" alpha="255" interior="0" posX="3231.3357" posY="-1278.2273" posZ="16.19903" rotX="0" rotY="0" rotZ="90" scale="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (4)" vehicle="415" alpha="255" interior="0" posX="3350.1802" posY="-1240.9547" posZ="16.19203" rotX="0" rotY="0" rotZ="-180" scale="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (5)" vehicle="415" alpha="255" interior="0" posX="3190.5432" posY="-1278.1965" posZ="16.20003" rotX="0" rotY="0" rotZ="-180" scale="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (6)" vehicle="415" alpha="255" interior="0" posX="3215.5186" posY="-1240.6777" posZ="16.20003" rotX="0" rotY="0" rotZ="179.995" scale="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (7)" vehicle="415" alpha="255" interior="0" posX="3375.2043" posY="-1278.1201" posZ="16.20204" rotX="0" rotY="0" rotZ="179.995" scale="0"></spawnpoint>
 </map>
